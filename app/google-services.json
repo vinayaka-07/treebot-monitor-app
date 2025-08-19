@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "590292387976",
+    "project_id": "treebot-monitor",
+    "storage_bucket": "treebot-monitor.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590292387976:android:4237ae1536183be59df73d",
+        "android_client_info": {
+          "package_name": "com.example.treebotmonitor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBWxEa2BVSWdlsf6jbwwoREd9nN3HbncQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
